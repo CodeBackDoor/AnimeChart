@@ -18,11 +18,20 @@ namespace MoonAntonio.Data
 	/// <summary>
 	/// <para>Data contenedora de los animes.</para>
 	/// </summary>
-	[CreateAssetMenu(fileName = "AnimeDB", menuName = "Create/AnimeDB", order = 1)]
+	[CreateAssetMenu(fileName = "AnimeDB", menuName = "AnimeData/AnimeDB", order = 1)]
 	public class AnimeDB : ScriptableObject 
 	{
 		#region Variables Publicas
 		public string nombreObjeto = "New AnimeDB";
+		public string titulo = "";
+		public Meses mesInicio = Meses.Null;
+		public Meses mesFinal = Meses.Null;
+		public Ano anoInicio = Ano.Null;
+		public Ano anoFinal = Ano.Null;
+		public string versionDoc = "";
+		public string fechaDoc = "";
+		public string firma = "";
+		public List<string> listaSource = new List<string>();
 		public List<AnimeTv> listaAnimeTV = new List<AnimeTv>();
 		public List<AnimeOVA> listaAnimeOVA = new List<AnimeOVA>();
 		public List<AnimeMovie> listaAnimeMovie = new List<AnimeMovie>();

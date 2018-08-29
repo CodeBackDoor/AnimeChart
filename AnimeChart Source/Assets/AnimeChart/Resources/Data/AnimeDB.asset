@@ -12,6 +12,25 @@ MonoBehaviour:
   m_Name: AnimeDB
   m_EditorClassIdentifier: 
   nombreObjeto: New AnimeDB
-  listaAnimeTV: []
+  titulo: 
+  mesInicio: 0
+  mesFinal: 0
+  anoInicio: 0
+  anoFinal: 0
+  versionDoc: 
+  fechaDoc: 
+  firma: 
+  listaSource: []
+  listaAnimeTV:
+  - nombre: 
+    categoriaI: 0
+    categoriaII: 0
+    categoriaIII: 0
+    compania: 
+    sinopsis: 
+    origen: 0
+    fecha: 
+    dia: 
+    img: {fileID: 0}
   listaAnimeOVA: []
   listaAnimeMovie: []

@@ -7,6 +7,10 @@
 // Ultima Mod:		Version Inicial												\\
 //******************************************************************************\\
 
+#region Librerias
+using UnityEngine;
+#endregion
+
 namespace MoonAntonio.Clases
 {
 	/// <summary>
@@ -15,6 +19,12 @@ namespace MoonAntonio.Clases
 	[System.Serializable]
 	public class AnimeMovie 
 	{
-
+		#region Variables Publicas
+		public string nombre = string.Empty;
+		public string compania = string.Empty;
+		public string fecha = string.Empty;
+		public string dia = string.Empty;
+		public Sprite img;
+		#endregion
 	}
 }
