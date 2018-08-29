@@ -29911,6 +29911,20 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   db: {fileID: 11400000, guid: 79400e1bdbfa86a4995f8a6e5daa833a, type: 2}
+  txtTemporada: {fileID: 1930612289}
+  txtAno: {fileID: 1126459145}
+  txtNombre: {fileID: 875116056}
+  txtVersion: {fileID: 1825793341}
+  txtDateVersion: {fileID: 680460773}
+  txtFirma: {fileID: 1666060026}
+  txtMesInicio: {fileID: 493229039}
+  txtAnoInicio: {fileID: 1108955465}
+  txtMesFinal: {fileID: 1302314009}
+  txtAnoFinal: {fileID: 2033500827}
+  txtSource: {fileID: 2036969182}
+  rootTV: {fileID: 1704282881}
+  rootOVA: {fileID: 1036904175}
+  rootMOVIE: {fileID: 1862185035}
 --- !u!4 &1931204709
 Transform:
   m_ObjectHideFlags: 0
@@ -31842,7 +31856,7 @@ GameObject:
   - component: {fileID: 2036969181}
   - component: {fileID: 2036969180}
   m_Layer: 5
-  m_Name: TxtFirma
+  m_Name: TxtSource
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0

@@ -9,6 +9,7 @@
 
 #region Librerias
 using UnityEngine;
+using UnityEngine.UI;
 using MoonAntonio.Data;
 #endregion
 
@@ -21,6 +22,20 @@ namespace MoonAntonio.Sistemas
 	{
 		#region Variables Publicas
 		public AnimeDB db;
+		public Text txtTemporada;
+		public Text txtAno;
+		public Text txtNombre;
+		public Text txtVersion;
+		public Text txtDateVersion;
+		public Text txtFirma;
+		public Text txtMesInicio;
+		public Text txtAnoInicio;
+		public Text txtMesFinal;
+		public Text txtAnoFinal;
+		public Text txtSource;
+		public Transform rootTV;
+		public Transform rootOVA;
+		public Transform rootMOVIE;
 		#endregion
 
 		#region API
