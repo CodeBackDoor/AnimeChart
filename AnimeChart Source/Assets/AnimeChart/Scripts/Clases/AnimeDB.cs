@@ -28,9 +28,10 @@ namespace MoonAntonio.Data
 		public Meses mesFinal = Meses.Null;
 		public Ano anoInicio = Ano.Null;
 		public Ano anoFinal = Ano.Null;
-		public string versionDoc = "";
-		public string fechaDoc = "";
-		public string firma = "";
+		public string versionDoc = "Version <color=green>2.0</color> - ";
+		public string fechaDoc = "19/08/2018";
+		public string firma = "Chart by AntonioMoon @ <color=green>moonantonio.github.io</color>";
+		public string sourceTemplate = "Source: XXXXX • XXXXX • XXXX   ";
 		public List<string> listaSource = new List<string>();
 		public List<AnimeTv> listaAnimeTV = new List<AnimeTv>();
 		public List<AnimeOVA> listaAnimeOVA = new List<AnimeOVA>();
