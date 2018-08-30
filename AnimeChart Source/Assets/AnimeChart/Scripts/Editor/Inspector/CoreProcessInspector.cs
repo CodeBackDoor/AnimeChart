@@ -24,6 +24,9 @@ namespace MoonAntonio
 		#region Variables
 		private int tab;
 		SerializedProperty dbProperty;
+		SerializedProperty prefabTVProperty;
+		SerializedProperty prefabOVAProperty;
+		SerializedProperty prefabMOVIEProperty;
 		SerializedProperty txtTemporadaProperty;
 		SerializedProperty txtAnoProperty;
 		SerializedProperty txtNombreProperty;
@@ -44,6 +47,9 @@ namespace MoonAntonio
 		void OnEnable()
 		{
 			dbProperty = serializedObject.FindProperty("db");
+			prefabTVProperty = serializedObject.FindProperty("prefabTv");
+			prefabOVAProperty = serializedObject.FindProperty("prefabOva");
+			prefabMOVIEProperty = serializedObject.FindProperty("prefabMovie");
 			txtTemporadaProperty = serializedObject.FindProperty("txtTemporada");
 			txtAnoProperty = serializedObject.FindProperty("txtAno");
 			txtNombreProperty = serializedObject.FindProperty("txtNombre");
@@ -106,11 +112,30 @@ namespace MoonAntonio
 			{
 				co.CrearFoto();
 			}
+
+			if (GUILayout.Button("Cargar Default"))
+			{
+				co.CargarDefault();
+			}
 		}
 
 		public void MostrarSetup(CoreProcess co)
 		{
 			EditorGUILayout.BeginVertical();
+
+			EditorGUILayout.BeginHorizontal("box");
+			EditorGUILayout.LabelField("Contenidos");
+			EditorGUILayout.EndHorizontal();
+
+			EditorGUILayout.Space();
+
+			EditorGUI.indentLevel++;
+			EditorGUILayout.PropertyField(prefabTVProperty);
+			EditorGUILayout.PropertyField(prefabOVAProperty);
+			EditorGUILayout.PropertyField(prefabMOVIEProperty);
+			EditorGUI.indentLevel--;
+
+			EditorGUILayout.Space();
 
 			EditorGUILayout.BeginHorizontal("box");
 			EditorGUILayout.LabelField("Linea 1");

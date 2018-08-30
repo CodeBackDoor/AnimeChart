@@ -29911,6 +29911,10 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   db: {fileID: 11400000, guid: 79400e1bdbfa86a4995f8a6e5daa833a, type: 2}
+  prefabTv: {fileID: 1737116126022506, guid: 6df776394fb2e6248874c3f7eb893ec5, type: 2}
+  prefabOva: {fileID: 1737116126022506, guid: 6df776394fb2e6248874c3f7eb893ec5, type: 2}
+  prefabMovie: {fileID: 1737116126022506, guid: 6df776394fb2e6248874c3f7eb893ec5,
+    type: 2}
   txtTemporada: {fileID: 1930612289}
   txtAno: {fileID: 1126459145}
   txtNombre: {fileID: 875116056}
