@@ -42,7 +42,41 @@ namespace MoonAntonio.Sistemas
 		#endregion
 
 		#region API
-		public void GenerarChart() { }
+		public void GenerarChart()
+		{
+			txtTemporada.text = db.temporada;
+			txtAno.text = db.anoInicio.ToString();
+			txtNombre.text = "ANIME CHART";
+			txtVersion.text = db.versionDoc;
+			txtDateVersion.text = db.fechaDoc;
+			txtFirma.text = db.firma;
+			txtMesInicio.text = db.mesInicio.ToString();
+			txtMesFinal.text = db.mesFinal.ToString();
+			txtAnoInicio.text = db.anoInicio.ToString();
+			txtAnoFinal.text = db.anoFinal.ToString();
+			txtSource.text = db.sourceTemplate.ToString();
+
+			for (int n = 0; n < db.listaAnimeTV.Count; n++)
+			{
+				GameObject go = Instantiate(prefabTv, rootTV);
+				//TODO Acceder y crear los datos internos.
+				
+			}
+
+			for (int n = 0; n < db.listaAnimeOVA.Count; n++)
+			{
+				GameObject go = Instantiate(prefabOva, rootOVA);
+				//TODO Acceder y crear los datos internos.
+
+			}
+
+			for (int n = 0; n < db.listaAnimeMovie.Count; n++)
+			{
+				GameObject go = Instantiate(prefabMovie, rootMOVIE);
+				//TODO Acceder y crear los datos internos.
+
+			}
+		}
 		public void CrearFoto() { }
 
 		public void CargarDefault()
@@ -66,6 +100,54 @@ namespace MoonAntonio.Sistemas
 			txtFirma.text = "Chart by AntonioMoon @ <color=green>moonantonio.github.io</color>";
 			txtFirma.fontSize = 20;
 			txtFirma.fontStyle = FontStyle.Bold;
+			txtMesInicio.text = "Septiembre";
+			txtMesInicio.fontSize = 10;
+			txtMesInicio.fontStyle = FontStyle.Normal;
+			txtAnoInicio.text = "2018";
+			txtAnoInicio.fontSize = 30;
+			txtAnoInicio.fontStyle = FontStyle.Normal;
+			txtMesFinal.text = "Noviembre";
+			txtMesFinal.fontSize = 10;
+			txtMesFinal.fontStyle = FontStyle.Normal;
+			txtAnoFinal.text = "2018";
+			txtAnoFinal.fontSize = 10;
+			txtAnoFinal.fontStyle = FontStyle.Normal;
+			txtSource.text = "Source : MyAnimeList • XXXXXX • XXXXX   ";
+			txtSource.fontSize = 10;
+			txtSource.fontStyle = FontStyle.Normal;
+
+			for (int n = 0; n < 36; n++)
+			{
+				Instantiate(prefabTv, rootTV);
+			}
+
+			for (int n = 0; n < 19; n++)
+			{
+				Instantiate(prefabOva, rootOVA);
+			}
+
+			for (int n = 0; n < 11; n++)
+			{
+				Instantiate(prefabMovie, rootMOVIE);
+			}
+		}
+
+		public void Clear()
+		{
+			foreach (Transform child in rootTV)
+			{
+				DestroyImmediate(child.gameObject);
+			}
+
+			foreach (Transform child in rootOVA)
+			{
+				DestroyImmediate(child.gameObject);
+			}
+
+			foreach (Transform child in rootMOVIE)
+			{
+				DestroyImmediate(child.gameObject);
+			}
 		}
 		#endregion
 	}

@@ -23,7 +23,7 @@ namespace MoonAntonio.Data
 	{
 		#region Variables Publicas
 		public string nombreObjeto = "New AnimeDB";
-		public string titulo = "";
+		public string temporada = "Verano";
 		public Meses mesInicio = Meses.Null;
 		public Meses mesFinal = Meses.Null;
 		public Ano anoInicio = Ano.Null;
@@ -32,7 +32,6 @@ namespace MoonAntonio.Data
 		public string fechaDoc = "19/08/2018";
 		public string firma = "Chart by AntonioMoon @ <color=green>moonantonio.github.io</color>";
 		public string sourceTemplate = "Source: XXXXX • XXXXX • XXXX   ";
-		public List<string> listaSource = new List<string>();
 		public List<AnimeTv> listaAnimeTV = new List<AnimeTv>();
 		public List<AnimeOVA> listaAnimeOVA = new List<AnimeOVA>();
 		public List<AnimeMovie> listaAnimeMovie = new List<AnimeMovie>();

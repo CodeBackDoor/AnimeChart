@@ -117,6 +117,11 @@ namespace MoonAntonio
 			{
 				co.CargarDefault();
 			}
+
+			if (GUILayout.Button("Limpiar Template"))
+			{
+				co.Clear();
+			}
 		}
 
 		public void MostrarSetup(CoreProcess co)

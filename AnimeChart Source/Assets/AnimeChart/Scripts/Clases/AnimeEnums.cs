@@ -13,14 +13,6 @@ using UnityEngine;
 
 namespace MoonAntonio
 {
-	public enum Temporada
-	{
-		Null,
-		Summer2018,
-		Autumn2018,
-		Winter2018
-	}
-
 	public enum Meses
 	{
 		Null,

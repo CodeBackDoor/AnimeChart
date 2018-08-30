@@ -12,15 +12,15 @@ MonoBehaviour:
   m_Name: AnimeDB
   m_EditorClassIdentifier: 
   nombreObjeto: New AnimeDB
-  titulo: 
-  mesInicio: 0
-  mesFinal: 0
-  anoInicio: 0
-  anoFinal: 0
-  versionDoc: 
-  fechaDoc: 
-  firma: 
-  listaSource: []
+  temporada: Primavera
+  mesInicio: 9
+  mesFinal: 11
+  anoInicio: 1
+  anoFinal: 1
+  versionDoc: Version <color=green>2.0</color> -
+  fechaDoc: 02.05.2018
+  firma: Chart by AntonioMoon @ <color=green>moonantonio.github.io</color>
+  sourceTemplate: "Source : MyAnimeList \u2022 XXXXXX \u2022 XXXXX   "
   listaAnimeTV:
   - nombre: 
     categoriaI: 0
@@ -32,5 +32,543 @@ MonoBehaviour:
     fecha: 
     dia: 
     img: {fileID: 0}
-  listaAnimeOVA: []
-  listaAnimeMovie: []
+  - nombre: 
+    categoriaI: 0
+    categoriaII: 0
+    categoriaIII: 0
+    compania: 
+    sinopsis: 
+    origen: 0
+    fecha: 
+    dia: 
+    img: {fileID: 0}
+  - nombre: 
+    categoriaI: 0
+    categoriaII: 0
+    categoriaIII: 0
+    compania: 
+    sinopsis: 
+    origen: 0
+    fecha: 
+    dia: 
+    img: {fileID: 0}
+  - nombre: 
+    categoriaI: 0
+    categoriaII: 0
+    categoriaIII: 0
+    compania: 
+    sinopsis: 
+    origen: 0
+    fecha: 
+    dia: 
+    img: {fileID: 0}
+  - nombre: 
+    categoriaI: 0
+    categoriaII: 0
+    categoriaIII: 0
+    compania: 
+    sinopsis: 
+    origen: 0
+    fecha: 
+    dia: 
+    img: {fileID: 0}
+  - nombre: 
+    categoriaI: 0
+    categoriaII: 0
+    categoriaIII: 0
+    compania: 
+    sinopsis: 
+    origen: 0
+    fecha: 
+    dia: 
+    img: {fileID: 0}
+  - nombre: 
+    categoriaI: 0
+    categoriaII: 0
+    categoriaIII: 0
+    compania: 
+    sinopsis: 
+    origen: 0
+    fecha: 
+    dia: 
+    img: {fileID: 0}
+  - nombre: 
+    categoriaI: 0
+    categoriaII: 0
+    categoriaIII: 0
+    compania: 
+    sinopsis: 
+    origen: 0
+    fecha: 
+    dia: 
+    img: {fileID: 0}
+  - nombre: 
+    categoriaI: 0
+    categoriaII: 0
+    categoriaIII: 0
+    compania: 
+    sinopsis: 
+    origen: 0
+    fecha: 
+    dia: 
+    img: {fileID: 0}
+  - nombre: 
+    categoriaI: 0
+    categoriaII: 0
+    categoriaIII: 0
+    compania: 
+    sinopsis: 
+    origen: 0
+    fecha: 
+    dia: 
+    img: {fileID: 0}
+  - nombre: 
+    categoriaI: 0
+    categoriaII: 0
+    categoriaIII: 0
+    compania: 
+    sinopsis: 
+    origen: 0
+    fecha: 
+    dia: 
+    img: {fileID: 0}
+  - nombre: 
+    categoriaI: 0
+    categoriaII: 0
+    categoriaIII: 0
+    compania: 
+    sinopsis: 
+    origen: 0
+    fecha: 
+    dia: 
+    img: {fileID: 0}
+  - nombre: 
+    categoriaI: 0
+    categoriaII: 0
+    categoriaIII: 0
+    compania: 
+    sinopsis: 
+    origen: 0
+    fecha: 
+    dia: 
+    img: {fileID: 0}
+  - nombre: 
+    categoriaI: 0
+    categoriaII: 0
+    categoriaIII: 0
+    compania: 
+    sinopsis: 
+    origen: 0
+    fecha: 
+    dia: 
+    img: {fileID: 0}
+  - nombre: 
+    categoriaI: 0
+    categoriaII: 0
+    categoriaIII: 0
+    compania: 
+    sinopsis: 
+    origen: 0
+    fecha: 
+    dia: 
+    img: {fileID: 0}
+  - nombre: 
+    categoriaI: 0
+    categoriaII: 0
+    categoriaIII: 0
+    compania: 
+    sinopsis: 
+    origen: 0
+    fecha: 
+    dia: 
+    img: {fileID: 0}
+  - nombre: 
+    categoriaI: 0
+    categoriaII: 0
+    categoriaIII: 0
+    compania: 
+    sinopsis: 
+    origen: 0
+    fecha: 
+    dia: 
+    img: {fileID: 0}
+  - nombre: 
+    categoriaI: 0
+    categoriaII: 0
+    categoriaIII: 0
+    compania: 
+    sinopsis: 
+    origen: 0
+    fecha: 
+    dia: 
+    img: {fileID: 0}
+  - nombre: 
+    categoriaI: 0
+    categoriaII: 0
+    categoriaIII: 0
+    compania: 
+    sinopsis: 
+    origen: 0
+    fecha: 
+    dia: 
+    img: {fileID: 0}
+  - nombre: 
+    categoriaI: 0
+    categoriaII: 0
+    categoriaIII: 0
+    compania: 
+    sinopsis: 
+    origen: 0
+    fecha: 
+    dia: 
+    img: {fileID: 0}
+  - nombre: 
+    categoriaI: 0
+    categoriaII: 0
+    categoriaIII: 0
+    compania: 
+    sinopsis: 
+    origen: 0
+    fecha: 
+    dia: 
+    img: {fileID: 0}
+  - nombre: 
+    categoriaI: 0
+    categoriaII: 0
+    categoriaIII: 0
+    compania: 
+    sinopsis: 
+    origen: 0
+    fecha: 
+    dia: 
+    img: {fileID: 0}
+  - nombre: 
+    categoriaI: 0
+    categoriaII: 0
+    categoriaIII: 0
+    compania: 
+    sinopsis: 
+    origen: 0
+    fecha: 
+    dia: 
+    img: {fileID: 0}
+  - nombre: 
+    categoriaI: 0
+    categoriaII: 0
+    categoriaIII: 0
+    compania: 
+    sinopsis: 
+    origen: 0
+    fecha: 
+    dia: 
+    img: {fileID: 0}
+  - nombre: 
+    categoriaI: 0
+    categoriaII: 0
+    categoriaIII: 0
+    compania: 
+    sinopsis: 
+    origen: 0
+    fecha: 
+    dia: 
+    img: {fileID: 0}
+  - nombre: 
+    categoriaI: 0
+    categoriaII: 0
+    categoriaIII: 0
+    compania: 
+    sinopsis: 
+    origen: 0
+    fecha: 
+    dia: 
+    img: {fileID: 0}
+  - nombre: 
+    categoriaI: 0
+    categoriaII: 0
+    categoriaIII: 0
+    compania: 
+    sinopsis: 
+    origen: 0
+    fecha: 
+    dia: 
+    img: {fileID: 0}
+  - nombre: 
+    categoriaI: 0
+    categoriaII: 0
+    categoriaIII: 0
+    compania: 
+    sinopsis: 
+    origen: 0
+    fecha: 
+    dia: 
+    img: {fileID: 0}
+  - nombre: 
+    categoriaI: 0
+    categoriaII: 0
+    categoriaIII: 0
+    compania: 
+    sinopsis: 
+    origen: 0
+    fecha: 
+    dia: 
+    img: {fileID: 0}
+  - nombre: 
+    categoriaI: 0
+    categoriaII: 0
+    categoriaIII: 0
+    compania: 
+    sinopsis: 
+    origen: 0
+    fecha: 
+    dia: 
+    img: {fileID: 0}
+  - nombre: 
+    categoriaI: 0
+    categoriaII: 0
+    categoriaIII: 0
+    compania: 
+    sinopsis: 
+    origen: 0
+    fecha: 
+    dia: 
+    img: {fileID: 0}
+  - nombre: 
+    categoriaI: 0
+    categoriaII: 0
+    categoriaIII: 0
+    compania: 
+    sinopsis: 
+    origen: 0
+    fecha: 
+    dia: 
+    img: {fileID: 0}
+  - nombre: 
+    categoriaI: 0
+    categoriaII: 0
+    categoriaIII: 0
+    compania: 
+    sinopsis: 
+    origen: 0
+    fecha: 
+    dia: 
+    img: {fileID: 0}
+  - nombre: 
+    categoriaI: 0
+    categoriaII: 0
+    categoriaIII: 0
+    compania: 
+    sinopsis: 
+    origen: 0
+    fecha: 
+    dia: 
+    img: {fileID: 0}
+  - nombre: 
+    categoriaI: 0
+    categoriaII: 0
+    categoriaIII: 0
+    compania: 
+    sinopsis: 
+    origen: 0
+    fecha: 
+    dia: 
+    img: {fileID: 0}
+  - nombre: 
+    categoriaI: 0
+    categoriaII: 0
+    categoriaIII: 0
+    compania: 
+    sinopsis: 
+    origen: 0
+    fecha: 
+    dia: 
+    img: {fileID: 0}
+  listaAnimeOVA:
+  - nombre: 
+    compania: 
+    sinopsis: 
+    categoria: 0
+    fecha: 
+    dia: 
+    img: {fileID: 0}
+  - nombre: 
+    compania: 
+    sinopsis: 
+    categoria: 0
+    fecha: 
+    dia: 
+    img: {fileID: 0}
+  - nombre: 
+    compania: 
+    sinopsis: 
+    categoria: 0
+    fecha: 
+    dia: 
+    img: {fileID: 0}
+  - nombre: 
+    compania: 
+    sinopsis: 
+    categoria: 0
+    fecha: 
+    dia: 
+    img: {fileID: 0}
+  - nombre: 
+    compania: 
+    sinopsis: 
+    categoria: 0
+    fecha: 
+    dia: 
+    img: {fileID: 0}
+  - nombre: 
+    compania: 
+    sinopsis: 
+    categoria: 0
+    fecha: 
+    dia: 
+    img: {fileID: 0}
+  - nombre: 
+    compania: 
+    sinopsis: 
+    categoria: 0
+    fecha: 
+    dia: 
+    img: {fileID: 0}
+  - nombre: 
+    compania: 
+    sinopsis: 
+    categoria: 0
+    fecha: 
+    dia: 
+    img: {fileID: 0}
+  - nombre: 
+    compania: 
+    sinopsis: 
+    categoria: 0
+    fecha: 
+    dia: 
+    img: {fileID: 0}
+  - nombre: 
+    compania: 
+    sinopsis: 
+    categoria: 0
+    fecha: 
+    dia: 
+    img: {fileID: 0}
+  - nombre: 
+    compania: 
+    sinopsis: 
+    categoria: 0
+    fecha: 
+    dia: 
+    img: {fileID: 0}
+  - nombre: 
+    compania: 
+    sinopsis: 
+    categoria: 0
+    fecha: 
+    dia: 
+    img: {fileID: 0}
+  - nombre: 
+    compania: 
+    sinopsis: 
+    categoria: 0
+    fecha: 
+    dia: 
+    img: {fileID: 0}
+  - nombre: 
+    compania: 
+    sinopsis: 
+    categoria: 0
+    fecha: 
+    dia: 
+    img: {fileID: 0}
+  - nombre: 
+    compania: 
+    sinopsis: 
+    categoria: 0
+    fecha: 
+    dia: 
+    img: {fileID: 0}
+  - nombre: 
+    compania: 
+    sinopsis: 
+    categoria: 0
+    fecha: 
+    dia: 
+    img: {fileID: 0}
+  - nombre: 
+    compania: 
+    sinopsis: 
+    categoria: 0
+    fecha: 
+    dia: 
+    img: {fileID: 0}
+  - nombre: 
+    compania: 
+    sinopsis: 
+    categoria: 0
+    fecha: 
+    dia: 
+    img: {fileID: 0}
+  - nombre: 
+    compania: 
+    sinopsis: 
+    categoria: 0
+    fecha: 
+    dia: 
+    img: {fileID: 0}
+  listaAnimeMovie:
+  - nombre: 
+    compania: 
+    fecha: 
+    dia: 
+    img: {fileID: 0}
+  - nombre: 
+    compania: 
+    fecha: 
+    dia: 
+    img: {fileID: 0}
+  - nombre: 
+    compania: 
+    fecha: 
+    dia: 
+    img: {fileID: 0}
+  - nombre: 
+    compania: 
+    fecha: 
+    dia: 
+    img: {fileID: 0}
+  - nombre: 
+    compania: 
+    fecha: 
+    dia: 
+    img: {fileID: 0}
+  - nombre: 
+    compania: 
+    fecha: 
+    dia: 
+    img: {fileID: 0}
+  - nombre: 
+    compania: 
+    fecha: 
+    dia: 
+    img: {fileID: 0}
+  - nombre: 
+    compania: 
+    fecha: 
+    dia: 
+    img: {fileID: 0}
+  - nombre: 
+    compania: 
+    fecha: 
+    dia: 
+    img: {fileID: 0}
+  - nombre: 
+    compania: 
+    fecha: 
+    dia: 
+    img: {fileID: 0}
+  - nombre: 
+    compania: 
+    fecha: 
+    dia: 
+    img: {fileID: 0}
