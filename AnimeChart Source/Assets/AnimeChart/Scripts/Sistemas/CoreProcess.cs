@@ -77,7 +77,11 @@ namespace MoonAntonio.Sistemas
 
 			}
 		}
-		public void CrearFoto() { }
+
+		public void CrearFoto()
+		{
+			ScreenCapture.CaptureScreenshot(db.nombreObjeto + ".png");
+		}
 
 		public void CargarDefault()
 		{
@@ -121,12 +125,12 @@ namespace MoonAntonio.Sistemas
 				Instantiate(prefabTv, rootTV);
 			}
 
-			for (int n = 0; n < 19; n++)
+			for (int n = 0; n < 38; n++)
 			{
 				Instantiate(prefabOva, rootOVA);
 			}
 
-			for (int n = 0; n < 11; n++)
+			for (int n = 0; n < 14; n++)
 			{
 				Instantiate(prefabMovie, rootMOVIE);
 			}
