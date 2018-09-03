@@ -35,7 +35,7 @@ MonoBehaviour:
       cuando el entrenamiento de rutina se convierte en una lucha cr\xEDtica por la
       supervivencia."
     origen: 2
-    fecha: JUL.2018
+    fecha: JUL.\n2018
     dia: 14
     img: {fileID: 21300000, guid: f5bfbe1c25b4399459a6d61f64fd7711, type: 3}
   - nombre: Shingeki no Kyojin Season 3
@@ -50,7 +50,7 @@ MonoBehaviour:
       el escuadr\xF3n debe mudarse y buscar un nuevo refugio. Excepto que una figura
       del pasado de Levi tiene sus propios planes para detenerlos."
     origen: 2
-    fecha: JUL.2018
+    fecha: JUL.\n2018
     dia: 23
     img: {fileID: 21300000, guid: 2962629dd9a68a84ebccb511e123e58f, type: 3}
   - nombre: Isekai Maou to Shoukan Shoujo no Dorei Majutsu
@@ -63,7 +63,7 @@ MonoBehaviour:
       diferente al suyo, \xA1pero con la misma apariencia que tuvo en el juego! All\xED,
       conoce a dos chicas que se proclaman a s\xED mismas como su Invocador."
     origen: 3
-    fecha: JUL.2018
+    fecha: JUL.\n2018
     dia: 05
     img: {fileID: 21300000, guid: 31e2f3e3cf003da448090d14c5d80963, type: 3}
   - nombre: Overlord III
@@ -73,7 +73,7 @@ MonoBehaviour:
     compania: Madhouse
     sinopsis: La tercera temporada de Overlord.
     origen: 3
-    fecha: JUL.2018
+    fecha: JUL.\n2018
     dia: 10
     img: {fileID: 21300000, guid: db7f13f64eb47c94792bae8d11b59efe, type: 3}
   - nombre: Steins;Gate 0
@@ -86,7 +86,7 @@ MonoBehaviour:
       rescatar a Kurisu. Decide darse por vencido y abandona a su animado \xE1lter
       ego cient\xEDfico, en la b\xFAsqueda de olvidar el pasado."
     origen: 3
-    fecha: JUL.2018
+    fecha: JUL.\n2018
     dia: 19
     img: {fileID: 21300000, guid: 90a230c06669cb44f9285b54e5965792, type: 3}
   - nombre: Satsuriku no Tenshi
@@ -100,7 +100,7 @@ MonoBehaviour:
       se encuentra con un hombre cubierto de vendajes. \xC9l se presenta como Zack
       y \xE9l maneja una segadora como hoz."
     origen: 4
-    fecha: JUL.2018
+    fecha: JUL.\n2018
     dia: 06
     img: {fileID: 21300000, guid: 02cd996dc7ef94b45ac3c8e0c8802fc3, type: 3}
   listaAnimeOVA:
@@ -111,7 +111,7 @@ MonoBehaviour:
       de una universidad, donde una criada llamada Alma le dice, \"Se\xF1ora, mate
       a los estudiantes y recupere la 'piedra secreta'\"."
     categoria: 3
-    fecha: JUL.2018
+    fecha: JUL.\n2018
     dia: 04
     img: {fileID: 21300000, guid: e8ad8e80e6e32f94b881fd630be28578, type: 3}
   listaAnimeMovie:

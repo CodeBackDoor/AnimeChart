@@ -76,6 +76,7 @@ GameObject:
   - component: {fileID: 224599800516687778}
   - component: {fileID: 222760350156254558}
   - component: {fileID: 114729889583983784}
+  - component: {fileID: 114729575112569998}
   m_Layer: 5
   m_Name: EntradaOVA
   m_TagString: Untagged
@@ -845,6 +846,24 @@ MonoBehaviour:
   m_FlexibleWidth: -1
   m_FlexibleHeight: -1
   m_LayoutPriority: 1
+--- !u!114 &114729575112569998
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1292704769351186}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6aa8743e08b86744d8cbd0ac2e9caca4, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  txtNombre: {fileID: 114750118644145198}
+  img: {fileID: 114361652203776656}
+  compa: {fileID: 114521428707747560}
+  sinopsis: {fileID: 114048848713160284}
+  origen: {fileID: 114199277218302562}
+  fecha: {fileID: 114012722598614772}
+  dia: {fileID: 114399645146784818}
 --- !u!114 &114729889583983784
 MonoBehaviour:
   m_ObjectHideFlags: 1

@@ -11,6 +11,7 @@
 using UnityEngine;
 using UnityEngine.UI;
 using MoonAntonio.Data;
+using MoonAntonio.Comun;
 #endregion
 
 namespace MoonAntonio.Sistemas
@@ -44,6 +45,8 @@ namespace MoonAntonio.Sistemas
 		#region API
 		public void GenerarChart()
 		{
+			Clear();
+
 			txtTemporada.text = db.temporada;
 			txtAno.text = db.anoInicio.ToString();
 			txtNombre.text = "ANIME CHART";
@@ -59,21 +62,29 @@ namespace MoonAntonio.Sistemas
 			for (int n = 0; n < db.listaAnimeTV.Count; n++)
 			{
 				GameObject go = Instantiate(prefabTv, rootTV);
-				//TODO Acceder y crear los datos internos.
-				
+				go.GetComponent<EntradaTV>().Init(db.listaAnimeTV[n].nombre, db.listaAnimeTV[n].img, db.listaAnimeTV[n].categoriaI,
+												db.listaAnimeTV[n].categoriaII, db.listaAnimeTV[n].categoriaIII, db.listaAnimeTV[n].compania,
+												db.listaAnimeTV[n].sinopsis, db.listaAnimeTV[n].origen, db.listaAnimeTV[n].fecha, db.listaAnimeTV[n].dia);
+
+				go.name = string.Format("EntradaTV :: {0}-{1}", db.listaAnimeTV[n].nombre,n);
 			}
 
 			for (int n = 0; n < db.listaAnimeOVA.Count; n++)
 			{
 				GameObject go = Instantiate(prefabOva, rootOVA);
-				//TODO Acceder y crear los datos internos.
+				go.GetComponent<EntradaOVA>().Init(db.listaAnimeTV[n].nombre, db.listaAnimeTV[n].img, db.listaAnimeTV[n].compania,
+								db.listaAnimeTV[n].sinopsis, db.listaAnimeTV[n].origen, db.listaAnimeTV[n].fecha, db.listaAnimeTV[n].dia);
+
+				go.name = string.Format("EntradaOVA :: {0}-{1}", db.listaAnimeOVA[n].nombre, n);
 
 			}
 
 			for (int n = 0; n < db.listaAnimeMovie.Count; n++)
 			{
 				GameObject go = Instantiate(prefabMovie, rootMOVIE);
-				//TODO Acceder y crear los datos internos.
+				go.GetComponent<EntradaMOVIE>().Init(db.listaAnimeTV[n].nombre, db.listaAnimeTV[n].img, db.listaAnimeTV[n].compania, db.listaAnimeTV[n].fecha, db.listaAnimeTV[n].dia);
+
+				go.name = string.Format("EntradaMOVIE :: {0}-{1}", db.listaAnimeMovie[n].nombre, n);
 
 			}
 		}
