@@ -4,6 +4,23 @@
 AnimeChart es un repositorio que contiene el source de los Charts que se publican en el blog.
 
 
+<p align="center"><br>
+  <img src="https://github.com/CodeBackDoor/AnimeChart/blob/master/res/AnimeImgBase.png?raw=true">
+  <br><br>
+  AnimeChart es un software para crear charts, actualmente destinado a las temporadas de anime que ocurren en verano, otoño, invierno y primavera.
+  
+  El software funciona de la siguiente manera.
+  1. Se crean los datos que tendra la tabla en el scriptableobject que se creara.
+  2. Los datos se cargan en el siguiente objeto.
+  <img src="https://github.com/CodeBackDoor/AnimeChart/blob/master/res/01.png?raw=true">
+  3. Se genera el chart
+  <img src="https://github.com/CodeBackDoor/AnimeChart/blob/master/res/02.png?raw=true">
+  
+  Dando como resultado:
+  <img src="https://github.com/CodeBackDoor/AnimeChart/blob/master/Temporadas/2018/Verano/Verano2018v2.0.jpg?raw=true">
+</p>
+
+
 # License: Project is released under MIT license Copyright (c) 2018 Antonio Mateo (MoonAntonio) and contributors.
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
