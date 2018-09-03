@@ -1,0 +1,122 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5ff5308d89db42c4c8907649bd55e25b, type: 3}
+  m_Name: Verano2018
+  m_EditorClassIdentifier: 
+  nombreObjeto: Verano2018
+  temporada: Verano
+  mesInicio: 6
+  mesFinal: 8
+  anoInicio: 1
+  anoFinal: 1
+  versionDoc: 'Version <color=green>2.0</color> - '
+  fechaDoc: 03/09/2018
+  firma: Chart by AntonioMoon @ <color=green>moonantonio.github.io</color>
+  sourceTemplate: "Source: Livechart \u2022 AniDB \u2022 Anime News Network   "
+  listaAnimeTV:
+  - nombre: Boku no Hero Academia 3rd Season
+    categoriaI: 1
+    categoriaII: 3
+    categoriaIII: 6
+    compania: Bones
+    sinopsis: "\xA1El verano est\xE1 aqu\xED, y los h\xE9roes de la clase 1-A y 1-B
+      est\xE1n en el campo de entrenamiento m\xE1s duro de sus vidas! Un grupo de
+      experimentados profesionales empuja a los Quirks de todos a nuevas alturas a
+      medida que los estudiantes enfrentan un desaf\xEDo abrumador tras otro. Desafiar
+      a los elementos en este lugar secreto se convierte en la menor de sus preocupaciones
+      cuando el entrenamiento de rutina se convierte en una lucha cr\xEDtica por la
+      supervivencia."
+    origen: 2
+    fecha: JUL.2018
+    dia: 14
+    img: {fileID: 21300000, guid: f5bfbe1c25b4399459a6d61f64fd7711, type: 3}
+  - nombre: Shingeki no Kyojin Season 3
+    categoriaI: 1
+    categoriaII: 2
+    categoriaIII: 8
+    compania: Wit Studio
+    sinopsis: "Despu\xE9s de recuperar Eren e Historia, los reclutas quedan bajo el
+      cuidado de Levi. Atascado en el medio de la nada, Hange somete a Eren a una
+      serie de experimentos en un intento por descubrir m\xE1s acerca de su habilidad.
+      Pero cuando su v\xEDnculo con los secretos detr\xE1s del muro es asesinado,
+      el escuadr\xF3n debe mudarse y buscar un nuevo refugio. Excepto que una figura
+      del pasado de Levi tiene sus propios planes para detenerlos."
+    origen: 2
+    fecha: JUL.2018
+    dia: 23
+    img: {fileID: 21300000, guid: 2962629dd9a68a84ebccb511e123e58f, type: 3}
+  - nombre: Isekai Maou to Shoukan Shoujo no Dorei Majutsu
+    categoriaI: 3
+    categoriaII: 2
+    categoriaIII: 10
+    compania: Ajia-do
+    sinopsis: "En el MMORPG Cross Reverie, Sakamoto Takuma es tan poderoso que otros
+      jugadores lo alaban como el \"Demon Lord\". Un d\xEDa, es convocado a un mundo
+      diferente al suyo, \xA1pero con la misma apariencia que tuvo en el juego! All\xED,
+      conoce a dos chicas que se proclaman a s\xED mismas como su Invocador."
+    origen: 3
+    fecha: JUL.2018
+    dia: 05
+    img: {fileID: 21300000, guid: 31e2f3e3cf003da448090d14c5d80963, type: 3}
+  - nombre: Overlord III
+    categoriaI: 2
+    categoriaII: 11
+    categoriaIII: 12
+    compania: Madhouse
+    sinopsis: La tercera temporada de Overlord.
+    origen: 3
+    fecha: JUL.2018
+    dia: 10
+    img: {fileID: 21300000, guid: db7f13f64eb47c94792bae8d11b59efe, type: 3}
+  - nombre: Steins;Gate 0
+    categoriaI: 14
+    categoriaII: 15
+    categoriaIII: 0
+    compania: White Fox
+    sinopsis: "Un final alternativo para Steins; Gate que conduce con el exc\xE9ntrico
+      cient\xEDfico loco Okabe, que lucha por recuperarse de un intento fallido de
+      rescatar a Kurisu. Decide darse por vencido y abandona a su animado \xE1lter
+      ego cient\xEDfico, en la b\xFAsqueda de olvidar el pasado."
+    origen: 3
+    fecha: JUL.2018
+    dia: 19
+    img: {fileID: 21300000, guid: 90a230c06669cb44f9285b54e5965792, type: 3}
+  - nombre: Satsuriku no Tenshi
+    categoriaI: 11
+    categoriaII: 16
+    categoriaIII: 17
+    compania: J.C.Staff
+    sinopsis: "Rachel, de 13 a\xF1os, despierta y se encuentra atrapada en el s\xF3tano
+      de un edificio abandonado. Sin ning\xFAn recuerdo, ni siquiera una pista de
+      d\xF3nde podr\xEDa estar, vaga por el edificio, perdida y mareada. En su b\xFAsqueda,
+      se encuentra con un hombre cubierto de vendajes. \xC9l se presenta como Zack
+      y \xE9l maneja una segadora como hoz."
+    origen: 4
+    fecha: JUL.2018
+    dia: 06
+    img: {fileID: 21300000, guid: 02cd996dc7ef94b45ac3c8e0c8802fc3, type: 3}
+  listaAnimeOVA:
+  - nombre: Calamity of a Zombie Girl
+    compania: GONZO
+    sinopsis: "La historia gira en torno a una hermosa ni\xF1a llamada Euphrosyne
+      que lamentablemente es un zombie. Euphrosyne se despierta en un archivo subterr\xE1neo
+      de una universidad, donde una criada llamada Alma le dice, \"Se\xF1ora, mate
+      a los estudiantes y recupere la 'piedra secreta'\"."
+    categoria: 3
+    fecha: JUL.2018
+    dia: 04
+    img: {fileID: 21300000, guid: e8ad8e80e6e32f94b881fd630be28578, type: 3}
+  listaAnimeMovie:
+  - nombre: 'My Hero Academia the Movie: Two Heroes'
+    compania: BONES
+    fecha: AGO.2018
+    dia: 03
+    img: {fileID: 21300000, guid: 0d0c4da64e7a9934bb092fcf3b88899a, type: 3}

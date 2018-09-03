@@ -41,7 +41,34 @@ namespace MoonAntonio
 	{
 		Null,
 		Accion,
-		Fantasia
+		Fantasia,
+		Comedia,
+		Colegio,
+		Shounen,
+		Superpoder,
+		Drama,
+		Misterio,
+		Militar,
+		Magico,
+		Aventura,
+		Juego,
+		Sobrenatural,
+		CienciaFiccion,
+		Thriller,
+		Horror,
+		Sicologico,
+		Ecchi,
+		Harem,
+		Romance,
+		HistoriasVida,
+		Seinen,
+		Deportes,
+		Shoujo,
+		Mecha,
+		Demonios,
+		ArtesMarciales,
+		Musica,
+		Parodia
 	}
 
 	public enum CategoriaEspecial
