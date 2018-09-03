@@ -72,8 +72,8 @@ namespace MoonAntonio.Sistemas
 			for (int n = 0; n < db.listaAnimeOVA.Count; n++)
 			{
 				GameObject go = Instantiate(prefabOva, rootOVA);
-				go.GetComponent<EntradaOVA>().Init(db.listaAnimeTV[n].nombre, db.listaAnimeTV[n].img, db.listaAnimeTV[n].compania,
-								db.listaAnimeTV[n].sinopsis, db.listaAnimeTV[n].origen, db.listaAnimeTV[n].fecha, db.listaAnimeTV[n].dia);
+				go.GetComponent<EntradaOVA>().Init(db.listaAnimeOVA[n].nombre, db.listaAnimeOVA[n].img, db.listaAnimeOVA[n].compania,
+								db.listaAnimeOVA[n].sinopsis, db.listaAnimeOVA[n].categoria, db.listaAnimeOVA[n].fecha, db.listaAnimeOVA[n].dia);
 
 				go.name = string.Format("EntradaOVA :: {0}-{1}", db.listaAnimeOVA[n].nombre, n);
 
@@ -82,7 +82,7 @@ namespace MoonAntonio.Sistemas
 			for (int n = 0; n < db.listaAnimeMovie.Count; n++)
 			{
 				GameObject go = Instantiate(prefabMovie, rootMOVIE);
-				go.GetComponent<EntradaMOVIE>().Init(db.listaAnimeTV[n].nombre, db.listaAnimeTV[n].img, db.listaAnimeTV[n].compania, db.listaAnimeTV[n].fecha, db.listaAnimeTV[n].dia);
+				go.GetComponent<EntradaMOVIE>().Init(db.listaAnimeMovie[n].nombre, db.listaAnimeMovie[n].img, db.listaAnimeMovie[n].compania, db.listaAnimeMovie[n].fecha, db.listaAnimeMovie[n].dia);
 
 				go.name = string.Format("EntradaMOVIE :: {0}-{1}", db.listaAnimeMovie[n].nombre, n);
 

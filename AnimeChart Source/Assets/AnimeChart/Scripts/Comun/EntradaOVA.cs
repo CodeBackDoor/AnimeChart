@@ -30,7 +30,7 @@ namespace MoonAntonio.Comun
 		#endregion
 
 		#region Init
-		public void Init(string nom, Sprite imagen, string com, string sinop, Origen ori, string fech, string di)
+		public void Init(string nom, Sprite imagen, string com, string sinop, CategoriaEspecial ori, string fech, string di)
 		{
 			txtNombre.text = nom;
 			img.sprite = imagen;

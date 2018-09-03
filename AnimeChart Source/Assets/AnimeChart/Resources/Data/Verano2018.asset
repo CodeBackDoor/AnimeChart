@@ -103,6 +103,260 @@ MonoBehaviour:
     fecha: JUL.\n2018
     dia: 06
     img: {fileID: 21300000, guid: 02cd996dc7ef94b45ac3c8e0c8802fc3, type: 3}
+  - nombre: Hataraku Saibou
+    categoriaI: 3
+    categoriaII: 5
+    categoriaIII: 0
+    compania: David Production
+    sinopsis: "Strep garganta! \xA1Fiebre de heno! \xA1Influenza! El mundo es un lugar
+      peligroso para un gl\xF3bulo rojo que intenta terminar sus entregas. Afortunadamente,
+      ella no est\xE1 sola ... \xA1Tiene un n\xFAmero de c\xE9lulas del cuerpo humano
+      listo para ayudar! El misterioso gl\xF3bulo blanco, el pulm\xF3n y el asesino
+      de las c\xE9lulas T, la neurona nerdy, incluso las tiernas plaquetas. \xA1Todos
+      deben unirse si quieren mantenerte saludable!"
+    origen: 2
+    fecha: JUL.\n2018
+    dia: 08
+    img: {fileID: 21300000, guid: fe9143d95942405459803f3ec07115b1, type: 3}
+  - nombre: Yuragi-sou no Yuuna-san
+    categoriaI: 3
+    categoriaII: 18
+    categoriaIII: 19
+    compania: Xebec
+    sinopsis: "Sin hogar y atormentado por fantasmas, el estudiante de secundaria
+      Kogarashi cree que su suerte finalmente ha cambiado cuando encuentra a Yuragi-sou,
+      una pensi\xF3n barata que anteriormente era una posada de aguas termales, ahora
+      llena de inquilinas femeninas s\xFAper sexy y escasamente vestidas."
+    origen: 2
+    fecha: JUL.\n2018
+    dia: 14
+    img: {fileID: 21300000, guid: 4d664469a6f6a2b49bfddf3da30881d0, type: 3}
+  - nombre: Shichisei no Subaru
+    categoriaI: 1
+    categoriaII: 2
+    categoriaIII: 12
+    compania: Lerche
+    sinopsis: "Hubo una vez una fiesta legendaria llamada Subaru en el popular MMORPG
+      \"Uni\xF3n\". El grupo estaba formado por amigos de la escuela primaria. Se
+      ganaron fama en un abrir y cerrar de ojos por sus capacidades sin paralelo en
+      el sistema Sense en el n\xFAcleo del juego. Sin embargo, hubo un incidente donde
+      un jugador falleci\xF3 dentro del juego. Como resultado de la muerte, Union
+      termin\xF3 el servicio."
+    origen: 3
+    fecha: JUL.\n2018
+    dia: 06
+    img: {fileID: 21300000, guid: 316624f6723c33b4b82751766745ed04, type: 3}
+  - nombre: Grand Blue
+    categoriaI: 3
+    categoriaII: 22
+    categoriaIII: 21
+    compania: Zero-G
+    sinopsis: "Despu\xE9s de mudarse por su cuenta a una ciudad costera, Kitahara
+      Iori hace un debut en la universidad que nunca anticip\xF3. Un nuevo cap\xEDtulo
+      de su vida se desarrolla, lleno de buceo con chicas hermosas y travesuras con
+      una pandilla de bastardos adorables. El idiota experto Inoue Kenji y la autoridad
+      natural Yoshioka Kimitake te traen un glorioso cuento universitario lleno de
+      payasadas llenas de alcohol."
+    origen: 2
+    fecha: JUL.\n2018
+    dia: 14
+    img: {fileID: 21300000, guid: 8d622ebcaa25f2348bb122272b4ac82d, type: 3}
+  - nombre: Hyakuren no Haou to Seiyaku no Valkyria
+    categoriaI: 3
+    categoriaII: 2
+    categoriaIII: 19
+    compania: EMT
+    sinopsis: "\xA1Algunas leyendas urbanas deben dejarse sin probar! Yuuto Suoh obtiene
+      m\xE1s de lo que esperaba cuando se une a su amigo de la infancia Mitsuki Shimoya
+      para probar una leyenda urbana. Cuando usa su tel\xE9fono para tomar una foto
+      de s\xED mismo con el espejo divino del santuario local, es llevado a otro mundo."
+    origen: 2
+    fecha: JUL.\n2018
+    dia: 08
+    img: {fileID: 21300000, guid: 3380def0f57f1aa45913a7cd22b9041b, type: 3}
+  - nombre: Island
+    categoriaI: 7
+    categoriaII: 21
+    categoriaIII: 17
+    compania: feel
+    sinopsis: "La isla de Urashima se encuentra en el oc\xE9ano muy, muy lejos del
+      continente. La isla es tan exuberante y hermosa que podr\xEDa confundirse con
+      el para\xEDso, pero las personas all\xED est\xE1n atrapadas por un pasado complejo
+      y tradiciones arraigadas."
+    origen: 3
+    fecha: JUL.\n2018
+    dia: 01
+    img: {fileID: 21300000, guid: 89a9d2937bbe0c94ca48bec8dea6c387, type: 3}
+  - nombre: 'Tenrou: Sirius the Jaeger'
+    categoriaI: 1
+    categoriaII: 16
+    categoriaIII: 13
+    compania: P.A. Works
+    sinopsis: "Un extra\xF1o grupo de personas con estuches de instrumentos musicales
+      aterriz\xF3 en la estaci\xF3n de Tokio. Se llaman los \"Jaegers\", que vinieron
+      a cazar vampiros. Entre ellos, se encontraba un joven con sorprendente serenidad
+      y aura inusual. Su nombre es Yuliy, un hombre lobo cuya aldea natal fue destruida
+      por vampiros. Yuliy y los Jaeger se enfrentan en una batalla mortal sobre un
+      misterioso arco sagrado conocido como \"El Arco de Sirio\"."
+    origen: 1
+    fecha: JUL.\n2018
+    dia: 12
+    img: {fileID: 21300000, guid: e15025cba9097e749afb4389dc5d7894, type: 3}
+  - nombre: Hanebado!
+    categoriaI: 22
+    categoriaII: 23
+    categoriaIII: 3
+    compania: LIDEN FILMS
+    sinopsis: "A pesar de su gran potencial, Ayano Hanesaki prefiere evitar el b\xE1dminton
+      que jugarlo. Pero cuando conoce a Nagisa Aragaki, un tercer a\xF1o que pasa
+      todos los momentos de vigilia perfeccionando su juego, est\xE1 inspirada."
+    origen: 2
+    fecha: JUL.\n2018
+    dia: 02
+    img: {fileID: 21300000, guid: daf077dcef82fde4ba92a4193b014d8d, type: 3}
+  - nombre: Persona 5 the Animation
+    categoriaI: 1
+    categoriaII: 2
+    categoriaIII: 13
+    compania: CloverWorks
+    sinopsis: "Ambientada en el Tokio moderno, la historia narra las aventuras de
+      un grupo ecl\xE9ctico de adolescentes que se autodenominan los \"Ladrones fantasma
+      de corazones\". Junto con sus manifestaciones metaf\xEDsicas conocidas como
+      Personas, el grupo busca resolver cr\xEDmenes mediante la reforma de la fuente
+      de corrupci\xF3n dentro de corazones de la gente."
+    origen: 4
+    fecha: JUL.\n2018
+    dia: 08
+    img: {fileID: 21300000, guid: 542a485723d1f3246a0c25dae2a07a38, type: 3}
+  - nombre: Happy Sugar Life
+    categoriaI: 7
+    categoriaII: 17
+    categoriaIII: 16
+    compania: "Ezo\u2019la"
+    sinopsis: "La estudiante de secundaria Matsuzaka Satou tiene fama de ser f\xE1cil,
+      pero un d\xEDa su estilo de vida de dormir con un chico tras otro llega a su
+      fin. Sucede cuando conoce a la ni\xF1a Shio, por quien est\xE1 convencida de
+      que siente amor verdadero por primera vez."
+    origen: 2
+    fecha: JUL.\n2018
+    dia: 14
+    img: {fileID: 21300000, guid: 465b14e9f9d8d2f43a95426292a4c4a3, type: 3}
+  - nombre: Banana Fish
+    categoriaI: 1
+    categoriaII: 11
+    categoriaIII: 7
+    compania: MAPPA
+    sinopsis: "La naturaleza hizo a Ash Lynx hermosa; la crianza lo convirti\xF3 en
+      un asesino despiadado y fr\xEDo. Un fugitivo criado como el heredero adoptivo
+      y el juguete sexual de \"Papa\" Dino Golzine, Ash, ahora a la edad rebelde de
+      diecisiete a\xF1os, abandona el reino sostenido por el diablo que lo cri\xF3.
+      Pero el espantoso secreto que enloqueci\xF3 al hermano mayor de Ash en Vietnam
+      ha ca\xEDdo de repente en las insaciablemente ambiciosas manos de pap\xE1, y
+      es exactamente el momento equivocado para que Eiji Okamura, un joven fot\xF3grafo
+      de puro coraz\xF3n de Jap\xF3n, conozca a Ash Lynx ..."
+    origen: 2
+    fecha: JUL.\n2018
+    dia: 06
+    img: {fileID: 21300000, guid: 73d9b0e09b78de24c865503adeb3c5d4, type: 3}
+  - nombre: Asobi Asobase
+    categoriaI: 3
+    categoriaII: 7
+    categoriaIII: 4
+    compania: Lerche
+    sinopsis: "Hanako, una estudiante atl\xE9ticamente h\xE1bil, pero gruesa con un
+      extra\xF1o sentido de la moda, juega un juego con la estudiante de transferencia
+      estadounidense Olivia. Sin embargo, su vigor irritaba a su compa\xF1era de clase
+      Kasuki, a quien no le gusta jugar juegos, ya que su hermana siempre se burlaba
+      de ella por ser mala con ellos. Con un giro de los acontecimientos, se descubri\xF3
+      que Hanako es terrible en ingl\xE9s."
+    origen: 2
+    fecha: JUL.\n2018
+    dia: 08
+    img: {fileID: 21300000, guid: d8869776fbc852b4fbedaf545622a8bb, type: 3}
+  - nombre: Chio-chan no Tsuugakuro
+    categoriaI: 3
+    categoriaII: 22
+    categoriaIII: 4
+    compania: "Diomed\xE9a"
+    sinopsis: "Esta es la historia de una chica nerd de biblioteca en su camino a
+      la escuela, y s\xED, esa es toda la premisa, ya que no va a llegar a la escuela
+      en el corto plazo. Tomando su ruta \"habitual\" a la escuela, se convierte en
+      una aventura cada vez m\xE1s inusual, y a\xFAn m\xE1s rid\xEDcula a medida que
+      avanza. Se necesita un sentimiento desagradable con el que muchos puedan sentir
+      empat\xEDa, la sensaci\xF3n de tardanza, y le da humor, por lo que es una situaci\xF3n
+      hilarante para mirar hacia atr\xE1s."
+    origen: 2
+    fecha: JUL.\n2018
+    dia: 06
+    img: {fileID: 21300000, guid: 354fb74b8231d9043886de65acceffbd, type: 3}
+  - nombre: Harukana Receive
+    categoriaI: 3
+    categoriaII: 22
+    categoriaIII: 23
+    compania: C2C
+    sinopsis: "Cuando la estudiante de secundaria Haruka se muda a Okinawa, se encuentra
+      enamorada de la playa justo frente a su puerta principal y decide formar un
+      equipo de voleibol con su primo, Kanata. Sin embargo, debido a que es tan peque\xF1a,
+      Kanata se rindi\xF3 en el voleibol hace a\xF1os. \xBFHaruka puede ayudarla a
+      retomar el deporte a tiempo para el torneo juvenil?"
+    origen: 2
+    fecha: JUL.\n2018
+    dia: 06
+    img: {fileID: 21300000, guid: 50a33eba80c98b6478fdcc429b7ef587, type: 3}
+  - nombre: Sunohara-sou no Kanrinin-san
+    categoriaI: 3
+    categoriaII: 21
+    categoriaIII: 0
+    compania: Silver Link
+    sinopsis: "Shiina Aki es constantemente tratada como una ni\xF1a debido a su aspecto
+      femenino, por lo que decide mudarse a Tokio para asistir a la escuela intermedia
+      en un intento de cambiarse a s\xED mismo."
+    origen: 2
+    fecha: JUL.\n2018
+    dia: 05
+    img: {fileID: 21300000, guid: 1b7e86f4cf3538946aeb1f8cf5dd1226, type: 3}
+  - nombre: Jashin-chan Dropkick
+    categoriaI: 3
+    categoriaII: 22
+    categoriaIII: 13
+    compania: Nomad
+    sinopsis: "Jashin-chan, un diablo del infierno, fue convocada abruptamente al
+      mundo humano por Yurine Hanazono, una estudiante universitaria estoica que vive
+      en un apartamento deteriorado en Jinbocho. Se ven obligados a convertirse en
+      compa\xF1eros de habitaci\xF3n ya que Yurine no sabe c\xF3mo devolver a Jashin-chan.
+      Pero de acuerdo con Jashin-chan, ella podr\xEDa regresar matando a Yurine, entonces
+      ella toma medidas ...?! \xA1Una comedia viperous roomie que te mantiene alerta!"
+    origen: 2
+    fecha: JUL.\n2018
+    dia: 10
+    img: {fileID: 21300000, guid: ec4c6cf107ed71441a55246f7effcb0f, type: 3}
+  - nombre: 'Joshi Ochi!!: 2-kai kara'
+    categoriaI: 18
+    categoriaII: 19
+    categoriaIII: 3
+    compania: ark
+    sinopsis: "Aikawa Sousuke es una trabajadora a tiempo parcial que vive en un apartamento
+      deteriorado. Un d\xEDa oye un crujido en el techo y, de repente, el residente
+      del departamento que est\xE1 sobre el suyo, Unyuu Sunao, cae por un agujero
+      que aparece en el techo de su cama. As\xED comienza la c\xF3mica vida de Sousuke
+      y Sunao de vivir juntos."
+    origen: 2
+    fecha: JUL.\n2018
+    dia: 02
+    img: {fileID: 21300000, guid: 2bfc6bf61c6a2b44f81af30a7be1006f, type: 3}
+  - nombre: 'Lupin the Third: Part 5'
+    categoriaI: 1
+    categoriaII: 11
+    categoriaIII: 3
+    compania: Telecom Animation Film
+    sinopsis: "Objetivo actual de Lupin: una clave para una cierta instalaci\xF3n
+      de servidor. Una vez obtenida, la informaci\xF3n de todos los clientes y sus
+      fondos del banco en l\xEDnea m\xE1s grande del mundo estar\xE1 en manos de Lupin.
+      All\xED, encuentran al desarrollador del sistema de seguridad del banco: Amlita."
+    origen: 2
+    fecha: JUL.\n2018
+    dia: 04
+    img: {fileID: 21300000, guid: 6e16dc667bcee314d8cba286e03bc3b2, type: 3}
   listaAnimeOVA:
   - nombre: Calamity of a Zombie Girl
     compania: GONZO
@@ -114,6 +368,38 @@ MonoBehaviour:
     fecha: JUL.\n2018
     dia: 04
     img: {fileID: 21300000, guid: e8ad8e80e6e32f94b881fd630be28578, type: 3}
+  - nombre: Iya na Kao sare nagara Opantsu Misete Moraitai
+    compania: --
+    sinopsis: Un proyecto en el que aparecen mujeres con diversos atuendos que muestran
+      rostros disgustados y ropa interior.
+    categoria: 2
+    fecha: JUL.\n2018
+    dia: 14
+    img: {fileID: 21300000, guid: 7368155abb999834ba16bd267ed3ff2d, type: 3}
+  - nombre: 'Dies irae: To the ring reincarnation'
+    compania: A.C.G.T.
+    sinopsis: "Los episodios 12-17 de Dies Irae, se lanzar\xE1n exclusivamente en
+      formato de transmisi\xF3n web sin transmisi\xF3n televisiva. "
+    categoria: 3
+    fecha: JUL.\n2018
+    dia: 01
+    img: {fileID: 21300000, guid: 27c54c5c65af2dd488fe2fb0c398e341, type: 3}
+  - nombre: 'One Piece: Episode of Skypiea'
+    compania: --
+    sinopsis: "El especial ser\xE1 el primero en la serie \"Episodio de\" para cubrir
+      el arco de Skypeia, y contar\xE1 con un personaje que no apareci\xF3 en el arco
+      original de Skypeia del anime."
+    categoria: 2
+    fecha: AGO.\n2018
+    dia: 25
+    img: {fileID: 21300000, guid: 8f27b8925ea181d4992bef9b86bd29b7, type: 3}
+  - nombre: 'Queen''s Blade: UNLIMITED'
+    compania: --
+    sinopsis: Nuevo Queen's Blade Project.
+    categoria: 1
+    fecha: AGO.\n2018
+    dia: 25
+    img: {fileID: 21300000, guid: ec206fe060bbd5141a2abaebbdbd8a26, type: 3}
   listaAnimeMovie:
   - nombre: 'My Hero Academia the Movie: Two Heroes'
     compania: BONES
