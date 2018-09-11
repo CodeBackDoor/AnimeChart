@@ -20,6 +20,9 @@ AnimeChart es un repositorio que contiene el source de los Charts que se publica
   <img src="https://github.com/CodeBackDoor/AnimeChart/blob/master/Temporadas/2018/Verano/Verano2018v2.0.jpg?raw=true">
 </p>
 
+# Temporadas
+<p align="center"><img src="https://github.com/CodeBackDoor/AnimeChart/blob/master/res/oto2018.jpg?raw=true">
+</p>
 
 # License: Project is released under MIT license Copyright (c) 2018 Antonio Mateo (MoonAntonio) and contributors.
 
