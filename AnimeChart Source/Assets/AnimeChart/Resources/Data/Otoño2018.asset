@@ -1,0 +1,437 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5ff5308d89db42c4c8907649bd55e25b, type: 3}
+  m_Name: "Oto\xF1o2018"
+  m_EditorClassIdentifier: 
+  nombreObjeto: "Oto\xF1o2018"
+  temporada: "Oto\xF1o"
+  mesInicio: 9
+  mesFinal: 11
+  anoInicio: 1
+  anoFinal: 1
+  versionDoc: 'Version <color=green>1.0</color> - '
+  fechaDoc: 11/09/2018
+  firma: Chart by AntonioMoon @ <color=green>moonantonio.github.io</color>
+  sourceTemplate: "Source: Livechart \u2022 AniDB \u2022 Anime News Network   "
+  listaAnimeTV:
+  - nombre: 'Sword Art Online: Alicization'
+    categoriaI: 1
+    categoriaII: 2
+    categoriaIII: 12
+    compania: A-1 Pictures
+    sinopsis: "Kirito despierta en un vasto y fant\xE1stico bosque lleno de imponentes
+      \xE1rboles. En su b\xFAsqueda de pistas sobre la verdad de su entorno, se encuentra
+      con un ni\xF1o que parece conocerlo. Deber\xEDa ser un simple NPC, pero la profundidad
+      de sus emociones no parece diferente a la de un humano. Mientras buscan a los
+      padres del ni\xF1o, Kirito encuentra un recuerdo peculiar que regresa a \xE9l."
+    origen: 3
+    fecha: OCT.\n2018
+    dia: 07
+    img: {fileID: 21300000, guid: d753daececc313742a2f6b2efb53c8ad, type: 3}
+  - nombre: Tokyo Ghoul:re 2nd Season
+    categoriaI: 1
+    categoriaII: 7
+    categoriaIII: 13
+    compania: Pierrot Plus
+    sinopsis: "Han pasado dos a\xF1os desde el ataque del CCG contra Anteiku. Aunque
+      el ambiente en Tokio ha cambiado dr\xE1sticamente debido a la mayor influencia
+      del CCG, los ghouls siguen planteando un problema ya que han comenzado a tomar
+      precauciones, especialmente la organizaci\xF3n terrorista Aogiri Tree, que reconoce
+      la creciente amenaza del CCG para su existencia."
+    origen: 2
+    fecha: OCT.\n2018
+    dia: 09
+    img: {fileID: 21300000, guid: 7cc962ae3c3bc7443968e775a886824f, type: 3}
+  - nombre: Goblin Slayer
+    categoriaI: 1
+    categoriaII: 2
+    categoriaIII: 0
+    compania: White Fox
+    sinopsis: "Una joven sacerdotisa form\xF3 su primera fiesta de aventuras, pero
+      casi inmediatamente se encuentran angustiadas. Es el Asesino de Duendes que
+      viene a su rescate, un hombre que dedic\xF3 su vida al exterminio de todos los
+      duendes, por cualquier medio necesario. Y cuando los rumores de sus haza\xF1as
+      comienzan a circular, no hay forma de saber qui\xE9n podr\xEDa venir a continuaci\xF3n
+      ..."
+    origen: 3
+    fecha: OCT.\n2018
+    dia: 07
+    img: {fileID: 21300000, guid: a1bfba4eab0165543b6bdf7ea4af4b5a, type: 3}
+  - nombre: Fairy Tail (2018)
+    categoriaI: 1
+    categoriaII: 11
+    categoriaIII: 3
+    compania: A-1 Pictures
+    sinopsis: Temporada final de Fairy Tail.
+    origen: 2
+    fecha: OCT.\n2018
+    dia: 07
+    img: {fileID: 21300000, guid: 26090677bb97bcd47a2478e2aeff5e32, type: 3}
+  - nombre: Toaru Majutsu no Index III
+    categoriaI: 1
+    categoriaII: 10
+    categoriaIII: 14
+    compania: J.C.Staff
+    sinopsis: Temporada 3 de Toaru Majutsu no Index.
+    origen: 3
+    fecha: OCT.\n2018
+    dia: 05
+    img: {fileID: 21300000, guid: e746264e01a3e604ba23b5135dd6aad0, type: 3}
+  - nombre: Tensei Shitara Slime Datta Ken
+    categoriaI: 1
+    categoriaII: 11
+    categoriaIII: 3
+    compania: 8bit
+    sinopsis: "El solitario Satoru Mikami de treinta y siete a\xF1os est\xE1 atascado
+      en un trabajo sin futuro, descontento con su vida mundana, pero despu\xE9s de
+      morir a manos de un ladr\xF3n, despierta a un nuevo comienzo en un reino de
+      fantas\xEDa ... como un monstruo limo! Mientras se aclimata a su nueva existencia,
+      sus haza\xF1as con los otros monstruos desencadenaron una cadena de eventos
+      que cambiar\xE1n su nuevo mundo para siempre."
+    origen: 3
+    fecha: OCT.\n2018
+    dia: 02
+    img: {fileID: 21300000, guid: e63a47f2b982a4a479ad023167065acd, type: 3}
+  - nombre: Seishun Buta Yarou wa Bunny Girl Senpai no Yume
+    categoriaI: 3
+    categoriaII: 20
+    categoriaIII: 4
+    compania: CloverWorks
+    sinopsis: "Hay un rumor sobre un misterioso fen\xF3meno llamado \"s\xEDndrome
+      de la pubertad\". Por ejemplo, Sakuta Azusagawa es una estudiante de secundaria
+      que de repente ve a una ni\xF1a conejita frente a \xE9l. La ni\xF1a es Mai Sakurajima,
+      estudiante de \xFAltimo a\xF1o de Sakuta y tambi\xE9n una famosa actriz que
+      se ha ido de la industria del entretenimiento. Por alg\xFAn motivo, la gente
+      que rodea a Mai no puede ver su figura de conejita. Sakuta se dispone a resolver
+      este misterio, y mientras pasa tiempo con Mai, \xE9l descubre sus sentimientos
+      secretos. Otras hero\xEDnas que tienen el \"s\xEDndrome de la pubertad\" comienzan
+      a aparecer frente a Sakuta."
+    origen: 3
+    fecha: OCT.\n2018
+    dia: 04
+    img: {fileID: 21300000, guid: b023c0c27093ea34293f8ccfd65cc9f0, type: 3}
+  - nombre: Kishuku Gakkou no Juliet
+    categoriaI: 1
+    categoriaII: 3
+    categoriaIII: 20
+    compania: LIDEN FILMS
+    sinopsis: "Juliet Percia e Inuzuka Romio son archienemigos. Llevan dos dormitorios
+      en la escuela secundaria, los \"Black Dogs\" y los \"White Cats\" de dos pa\xEDses
+      rivales. Ambas facciones est\xE1n totalmente decididas a derrotar al otro para
+      obtener el control de la isla que tienen que compartir. Sin embargo, por debajo
+      del exterior enemigo, Percia e Inuzuka anhelan el amor y la paz por su relaci\xF3n
+      en ciernes ..."
+    origen: 2
+    fecha: OCT.\n2018
+    dia: 06
+    img: {fileID: 21300000, guid: e00830f5c17a6f24cb66a5f6009c7309, type: 3}
+  - nombre: Ore ga Suki nano wa Imouto dakedo Imouto ja Nai
+    categoriaI: 3
+    categoriaII: 20
+    categoriaIII: 0
+    compania: NAZ
+    sinopsis: "Suzuka Nagami es una hermosa estudiante de tercer a\xF1o de secundaria
+      que tiene excelentes calificaciones y es la presidenta del consejo estudiantil.
+      Ella escribi\xF3 una novela sobre una peque\xF1a hermana que adora a su hermano
+      mayor, y la novela gana un premio de novela ligera. Despu\xE9s de discutir el
+      asunto, Yuu es quien debuta como autor de la novela ligera proxy en lugar de
+      Suzuka, bajo el seud\xF3nimo de Chikai Towano."
+    origen: 3
+    fecha: OCT.\n2018
+    dia: 10
+    img: {fileID: 21300000, guid: d9570175cd116604592d908dfed92f21, type: 3}
+  - nombre: Irozuku Sekai no Ashita kara
+    categoriaI: 0
+    categoriaII: 7
+    categoriaIII: 0
+    compania: P.A. Works
+    sinopsis: "Ambientada en la ciudad de Nagasaki, la historia tiene lugar en un
+      mundo en el que una cantidad min\xFAscula de magia permanece en la vida cotidiana.
+      Hitomi Tsukishiro es una descendiente de 17 a\xF1os de una familia de brujas
+      que creci\xF3 con emociones vivas, ya que perdi\xF3 su sentido del color a una
+      edad muy temprana. Sinti\xE9ndose mal por el futuro de su nieta, Kohaku, una
+      gran bruja, env\xEDa a Hitomi al pasado, el a\xF1o 2018. Mediante intercambios
+      con su abuela de 17 a\xF1os y los miembros de su club, la historia sigue al
+      crecimiento de Hitomi como persona."
+    origen: 1
+    fecha: OCT.\n2018
+    dia: 06
+    img: {fileID: 21300000, guid: 0e6a57df913ba6f408c81890d0e35a13, type: 3}
+  - nombre: Golden Kamuy 2nd Season
+    categoriaI: 1
+    categoriaII: 11
+    categoriaIII: 22
+    compania: Geno Studio
+    sinopsis: "En Hokkaido, las tierras del extremo norte de Jap\xF3n, Sugimoto sobrevivi\xF3
+      a la guerra ruso-japonesa de la era Meiji. Apodado \"Invincible Sugimoto\" durante
+      la guerra, ahora busca las riquezas prometidas por la fiebre del oro con la
+      esperanza de salvar de la guerra a la esposa viuda de su ahora difunto camarada.
+      Durante su b\xFAsqueda de oro, encuentra indicios de un alijo oculto de oro
+      por delincuentes corruptos. Al asociarse con una chica ainu que salva su vida
+      de los duros climas del norte, se aventuran en una aventura de supervivencia
+      en una carrera contra los criminales que buscan el escondite oculto."
+    origen: 2
+    fecha: OCT.\n2018
+    dia: 08
+    img: {fileID: 21300000, guid: 7c7f28a82fe2d5e49b765899f5d4c974, type: 3}
+  - nombre: Radiant
+    categoriaI: 1
+    categoriaII: 11
+    categoriaIII: 2
+    compania: Lerche
+    sinopsis: "Seth es un aspirante a brujo del \xE1rea de Pompo Hills. Como todos
+      los magos, \xE9l es un \"infectado\": uno de los pocos seres vivos que sobrevivi\xF3
+      al contacto de la N\xE9mesis, estas criaturas ca\xEDdas del cielo que contaminan
+      y diezman a todos los que tocan. Su aparente inmunidad lo hizo elegir un camino
+      que le pareci\xF3 lo m\xE1s apropiado: convertirse en un Cazador y luchar contra
+      la N\xE9mesis. Pero m\xE1s que eso, Seth quiere participar en una misi\xF3n
+      que va m\xE1s all\xE1 de la simple caza de monstruos."
+    origen: 2
+    fecha: OCT.\n2018
+    dia: 06
+    img: {fileID: 21300000, guid: f9fb8efec1733c7459bd3d42f512d97b, type: 3}
+  - nombre: 'Ulysses: Jeanne d''Arc to Renkin no Kishi'
+    categoriaI: 1
+    categoriaII: 0
+    categoriaIII: 2
+    compania: AXsiZ
+    sinopsis: "Durante la Guerra de los Cien A\xF1os con Inglaterra, Montmorency,
+      el hijo de un noble, se sumerge en el estudio de la magia y la alquimia en una
+      escuela para caballeros. Sin embargo, despu\xE9s de la derrota de Francia en
+      Agincourt, la escuela se disuelve y Montmorency se ve obligado a huir. Mientras
+      huye se encuentra con una ni\xF1a milagrosa llamada Jeanne."
+    origen: 3
+    fecha: OCT.\n2018
+    dia: 07
+    img: {fileID: 21300000, guid: d1ad703d67a221c4db7a9b68c14a3876, type: 3}
+  - nombre: FLCL Alternative
+    categoriaI: 1
+    categoriaII: 3
+    categoriaIII: 25
+    compania: Production I.G
+    sinopsis: "La serie se centra en las desventuras de Kana, de 17 a\xF1os, una estudiante
+      de secundaria que se pasa el d\xEDa con sus mejores amigas, Mossan, Hijiri y
+      Pets. Viven vidas sin importancia, hasta el d\xEDa en que una Mecha cae del
+      cielo, junto con una mujer extra\xF1a llamada 'Haruko'."
+    origen: 1
+    fecha: SEP.\n2018
+    dia: 09
+    img: {fileID: 21300000, guid: 6d1cbe5a24922e14781d2a97b729e5dd, type: 3}
+  - nombre: Yagate Kimi ni Naru
+    categoriaI: 4
+    categoriaII: 3
+    categoriaIII: 0
+    compania: TROYCA
+    sinopsis: "A Yuu siempre le ha encantado el manga shoujo y espera el d\xEDa en
+      que recibe una confesi\xF3n de amor que le llena el coraz\xF3n de burbujas y
+      corazones, y sin embargo, cuando una compa\xF1era de secundaria le confiesa
+      sus sentimientos ... no siente nada."
+    origen: 2
+    fecha: OCT.\n2018
+    dia: 05
+    img: {fileID: 21300000, guid: b7e3f383faef4574a9db2bfc78be1032, type: 3}
+  - nombre: Conception
+    categoriaI: 1
+    categoriaII: 11
+    categoriaIII: 10
+    compania: Gonzo
+    sinopsis: "La historia del juego gira en torno a Itsuki Yuuge, un estudiante de
+      secundaria que el d\xEDa de su ceremonia de graduaci\xF3n descubre que su primo
+      y amigo de la infancia, Mahiru, est\xE1 embarazada. Inmediatamente despu\xE9s,
+      Itsuki y Mahiru son llevados a un mundo m\xE1gico llamado Granvania, que actualmente
+      est\xE1 siendo invadido por monstruos."
+    origen: 4
+    fecha: OCT.\n2018
+    dia: 10
+    img: {fileID: 21300000, guid: 8200bbbf2f6c5864d977afd5f8b4244c, type: 3}
+  - nombre: 'Beatless: Final Stage'
+    categoriaI: 1
+    categoriaII: 7
+    categoriaIII: 20
+    compania: "Diomed\xE9a"
+    sinopsis: "\xDAltimos cuatro episodios de \"Beatless\""
+    origen: 3
+    fecha: SEP.\n2018
+    dia: --
+    img: {fileID: 21300000, guid: 305d852c57ff3d44fb802d48fbf44f36, type: 3}
+  - nombre: Beelzebub-jou no Okinimesu mama
+    categoriaI: 3
+    categoriaII: 2
+    categoriaIII: 5
+    compania: LIDEN FILMS
+    sinopsis: "Murin aterriza su trabajo de ensue\xF1o con el rey demonio, siempre
+      lo admira, pero cuando comienza su mandato, resulta que el rey demonio no es
+      exactamente lo que esperaba ..."
+    origen: 2
+    fecha: OCT.\n2018
+    dia: 11
+    img: {fileID: 21300000, guid: b756f67f91b58b64bad7fc31906a945a, type: 3}
+  - nombre: Tonari no Kyuuketsuki-san
+    categoriaI: 3
+    categoriaII: 21
+    categoriaIII: 26
+    compania: Studio Gokumi
+    sinopsis: "La comedia moderna de vampiros se centra en la ni\xF1a de la escuela
+      secundaria Amano, que fue salvada de un extra\xF1o incidente por una ni\xF1a
+      vampira llamada Sophie Twilight, y desde entonces se ha interesado por ella."
+    origen: 2
+    fecha: OCT.\n2018
+    dia: 05
+    img: {fileID: 21300000, guid: 2e10771c115a9c24aad3b424bcfc2b3c, type: 3}
+  - nombre: Ingress the Animation
+    categoriaI: 1
+    categoriaII: 8
+    categoriaIII: 14
+    compania: Craftar
+    sinopsis: "Desde que era peque\xF1o, Makoto ten\xEDa un extra\xF1o poder que le
+      permit\xEDa leer los recuerdos de los objetos que tocaba. Ocultando su poder
+      incontrolable, trabaja como agente especial en la fuerza policial. Un d\xEDa,
+      mientras investigaba una explosi\xF3n en un laboratorio que investiga una sustancia
+      desconocida llamada \"XM\", ve un recuerdo misterioso."
+    origen: 4
+    fecha: OCT.\n2018
+    dia: 18
+    img: {fileID: 21300000, guid: ee9080cee4b9524449346315b00e9706, type: 3}
+  - nombre: Han-Gyaku-sei Million Arthur
+    categoriaI: 1
+    categoriaII: 11
+    categoriaIII: 2
+    compania: J.C.Staff
+    sinopsis: --
+    origen: 4
+    fecha: OCT.\n2018
+    dia: 25
+    img: {fileID: 21300000, guid: 395717f3e21c3fb4fa1df5c19300ff5f, type: 3}
+  - nombre: 'RErideD: Tokigoe no Derrida'
+    categoriaI: 0
+    categoriaII: 14
+    categoriaIII: 0
+    compania: Geek Toys
+    sinopsis: "El a\xF1o es 2050. Un joven ingeniero llamado Derrida Yvain se hizo
+      famoso gracias a su contribuci\xF3n al desarrollo de la \"m\xE1quina aut\xF3noma
+      DZ\" en Rebuild, la empresa de fabricaci\xF3n fundada por su padre."
+    origen: 1
+    fecha: OCT.\n2018
+    dia: --
+    img: {fileID: 21300000, guid: 4cfcb6ce11569524f8108b7d02fcbaba, type: 3}
+  - nombre: SSSS.Gridman
+    categoriaI: 1
+    categoriaII: 25
+    categoriaIII: 14
+    compania: Trigger
+    sinopsis: "Yuta Hibiki se despierta con amnesia y la habilidad de ver cosas que
+      otros no pueden ver. Primero se encuentra con un Gridman en el reflejo de la
+      computadora de su amigo Rikka Takarada y le dice que \"recuerde su llamado\",
+      pero Yuta no entiende lo que esto significa. M\xE1s tarde, en la distancia,
+      ve un monstruo extremadamente grande pero no se mueve."
+    origen: 1
+    fecha: OCT.\n2018
+    dia: 07
+    img: {fileID: 21300000, guid: d807f8b638aab3048b31b43f9c977cfa, type: 3}
+  - nombre: Release the Spyce
+    categoriaI: 1
+    categoriaII: 3
+    categoriaIII: 18
+    compania: Lay-duce
+    sinopsis: "La serie trata de una ni\xF1a llamada Momo que asiste a la escuela
+      secundaria en la ciudad de Sorasaki. Sin embargo, ella es secretamente miembro
+      de Tsukikage, una agencia de inteligencia que protege a las personas. Como nuevo
+      miembro de la agencia, ella trabaja junto a sus colegas, entre ellos, Yuki y
+      sus amigos. Juntos, trabajan para establecer la paz en la ciudad."
+    origen: 1
+    fecha: OCT.\n2018
+    dia: 07
+    img: {fileID: 21300000, guid: 052594526783cc54fbd849bd9ff58ca9, type: 3}
+  - nombre: 'Senran Kagura: Shinovi Master - Tokyo Youma'
+    categoriaI: 1
+    categoriaII: 3
+    categoriaIII: 18
+    compania: TNK
+    sinopsis: Segunda temporada de "Senran Kagura".
+    origen: 4
+    fecha: OCT.\n2018
+    dia: --
+    img: {fileID: 21300000, guid: 3cb4bd7b17744b343a48401edeec6d9b, type: 3}
+  - nombre: Shuudengo, Capsule Hotel de, Joushi ni Binetsu
+    categoriaI: 18
+    categoriaII: 20
+    categoriaIII: 0
+    compania: Namu Animation
+    sinopsis: "La historia se centra en Minori, una oficinista, y su jefe Hadano,
+      quienes constantemente discuten entre s\xED. Una noche, despu\xE9s de una fiesta
+      de bebidas en compa\xF1\xEDa, Minori y Hatano est\xE1n teniendo su discusi\xF3n
+      habitual, cuando Minori se da cuenta de que ha perdido el \xFAltimo tren. Decidieron
+      pasar la noche en un hotel c\xE1psula cercano, pero un incidente los obliga
+      a compartir la misma unidad."
+    origen: 2
+    fecha: OCT.\n2018
+    dia: 08
+    img: {fileID: 21300000, guid: a53994077dc95704db1d50e64785caba, type: 3}
+  listaAnimeOVA:
+  - nombre: Re:Zero kara Hajimeru Isekai Seikatsu - Memory Snow
+    compania: White Fox
+    sinopsis: --
+    categoria: 1
+    fecha: OCT.2018
+    dia: 06
+    img: {fileID: 21300000, guid: 7aaeaa2edd4877641b5f024fa453a569, type: 3}
+  - nombre: Nanatsu no Taizai
+    compania: A-1 Pictures
+    sinopsis: "Los OVA se incluyen con los vol\xFAmenes 15, 16 y 34 del manga."
+    categoria: 1
+    fecha: NOV.2018
+    dia: 14
+    img: {fileID: 21300000, guid: 0a4d3d79524aa484d81342a222be7de0, type: 3}
+  - nombre: Yuragi-sou no Yuuna-san
+    compania: Xebec
+    sinopsis: "Los OVA se incluyen con ediciones limitadas de los vol\xFAmenes 11,
+      12 y 13 del manga.  El primer OVA adapta el 12 \xB0 cap\xEDtulo del manga."
+    categoria: 1
+    fecha: OCT.2018
+    dia: 04
+    img: {fileID: 21300000, guid: 4d664469a6f6a2b49bfddf3da30881d0, type: 3}
+  - nombre: Koi to Uso
+    compania: LIDEN FILMS
+    sinopsis: "Las mentiras est\xE1n prohibidas y el amor est\xE1 doblemente prohibido.
+      En el futuro cercano, cuando los j\xF3venes en Jap\xF3n cumplan diecis\xE9is
+      a\xF1os, el gobierno les asignar\xE1 un c\xF3nyuge. La gente no tiene que pasar
+      por la molestia de buscar a alguien, y todos aceptan que el pa\xEDs encontrar\xE1
+      un socio compatible para hacerlos felices."
+    categoria: 1
+    fecha: NOV.2018
+    dia: 09
+    img: {fileID: 21300000, guid: ef0951ecc642de3429f5c4439f89611c, type: 3}
+  - nombre: Golden Kamuy
+    compania: Geno Studio
+    sinopsis: "DVD de anim\xE9 incluido con una edici\xF3n limitada del 15 \xB0 volumen
+      del manga.  La historia se centrar\xE1 en el arco de Barato del manga, e incluye
+      un conflicto entre el francotirador Ogata Hyakunosuke y el h\xE9roe de Bakumatsu
+      Hijikata Toshizou."
+    categoria: 1
+    fecha: SEP.2018
+    dia: 19
+    img: {fileID: 21300000, guid: d1b35ce740455a74ea66b9e88cd5c5f6, type: 3}
+  listaAnimeMovie:
+  - nombre: 'Bungou Stray Dogs: Dead Apple'
+    compania: Bones
+    fecha: SEP.2018
+    dia: 02
+    img: {fileID: 21300000, guid: a4231af192753f64d960854d57ae6309, type: 3}
+  - nombre: Zoku Owarimonogatari
+    compania: Shaft
+    fecha: --.2018
+    dia: --
+    img: {fileID: 21300000, guid: 6be6369c766ee824eb006ca8698c1789, type: 3}
+  - nombre: Sayonara no Asa ni Yakusoku no Hana wo Kazarou
+    compania: P.A. Works
+    fecha: OCT.2018
+    dia: 26
+    img: {fileID: 21300000, guid: 34e7d4822fc7ccf4abb1a90c6fa89328, type: 3}
